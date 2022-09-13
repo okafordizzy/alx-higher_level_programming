@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # 5-raise_exception.py
-# Brennan D Baraban <375@holbertonschool.com>
-
+# Okafor Chiedozie
 
 def raise_exception():
     """Raise a TypeError exception."""
